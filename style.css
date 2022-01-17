@@ -1,0 +1,117 @@
+#title{
+    background-color: #0F0E0E;
+    color: white;
+    
+}
+.Container-fluid{
+    padding: 3% 6% 5%;
+}
+.navbar-brand{
+    font-family:"Bebas Neue";
+}
+.style{
+    font-size: 3.5rem;
+  line-height: 1.5;
+  margin-top: 20px;
+}
+.style-para{
+    margin: 20px 0px 20px;
+}
+
+.card-title{
+    color: black;
+    
+}
+.card-para{
+    color: gray;
+    margin-top: 0px;
+    line-height: 0%;
+}
+.section-image{
+    width:100%;
+    
+}
+.Text-head{
+
+    text-align: left;
+    color: black;
+    font-family: "Anton";
+    font-size: 3.5rem;
+}
+.Text-para{
+    text-align: left;
+ }
+ #services{
+     padding: 3%;
+     background-color: #F5F5F5;
+     
+ }
+ .services-head{
+     text-align: left;
+     margin-bottom: 10px;
+     font-family: "Abril Fatface";
+     line-height: 4;
+
+     
+ }
+ .card-img{
+     padding-bottom: 3%;
+     
+ }
+ .card-para{
+     line-height: 0%;
+     font-size: 1rem;
+ }
+ #worship{
+     padding:3%;
+     background-color: #F0ECE3;
+ }
+ .grid1{
+ margin-top: 100px;
+ 
+}
+.grid2{
+    margin:3px 0px 4px 0px;
+}
+.grid211{
+    margin-top: 5%;
+}
+.grid21{
+    color: cadetblue;
+}
+.grid222{
+    padding: 5% 3% 2% 10%;
+   
+    height: 210px;
+    width: 400px;
+    background-color: chartreuse;
+}
+#features{
+    padding: 7% 15%;
+  background-color:white;
+position: relative;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+  }
+  .icon{
+    color:#A68DAD;
+    margin-bottom: 1rem;
+  }
+  .icon:hover{
+    color: #D9D7F1;
+  }
+  #Form{
+      margin: 2%;
+    padding: 7% 7%;
+    background-color: #D9D7F1;
+  }
+  .footer{
+    background-color: #D9D7F1;
+  }
+
+
+
+
+
